@@ -39,7 +39,7 @@ QUESTIONS = [
     "What type of government does Indonesia have?",
     "Who is the current president of Indonesia?",
     "What is the national anthem of Indonesia?",
-    "What are Indonesia’s neighboring countries?",
+    "What are Indonesias neighboring countries?",
     "Why is Indonesia considered a biodiversity hotspot?",
     "What is the largest island in Indonesia?",
     "What is the smallest province in Indonesia?",
@@ -99,7 +99,7 @@ QUESTIONS = [
     "What is the role of military in Indonesian history?",
     "What is the role of women in Indonesian society?",
     "What are current environmental issues in Indonesia?",
-    "What is Indonesia’s stance on climate change?",
+    "What is Indonesias stance on climate change?",
     "What is the role of forests in Indonesia?",
     "What is deforestation and how does it affect Indonesia?",
     "What are the endangered species in Indonesia?",
@@ -120,7 +120,7 @@ QUESTIONS = [
     "What is the function of the Garuda symbol?",
     "What are the traditional weapons of Indonesia?",
     "What is the significance of the kris?",
-    "What is the role of youth organizations in Indonesia?"
+    "What is the role of youth organizations in Indonesia?",
 ]
 
 def chat_with_ai(api_key: str, question: str) -> str:
