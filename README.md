@@ -139,13 +139,13 @@ To interact with your node and earn XP, visit: [Pengu Gaia Domain](https://pengu
 2. **Download the Python Script**:
    - Run:
      ```bash
-     curl -L -o gaiabot.py https://github.com/0xmoei/Gaianet-AI/raw/main/gaiabot.py
+     curl -L -o gaiabot.py https://github.com/richdo160/Gaianet-AI/raw/main/gaiabot.py
      ```
 
 3. **Run the Script**:
    - Open a screen to run the bot in the background, so if you closed the terminal, it won't stop:
      ```bash
-     screen -S gaiabot
+     screen -S gaia
      ```
    - Now run this command to start the bot:
      ```bash
@@ -154,7 +154,7 @@ To interact with your node and earn XP, visit: [Pengu Gaia Domain](https://pengu
    - Enter your Gaia API key when prompted.
 
 * To minmize the screen, press `Ctrl+A+D`
-* To return the screen, enter command: `screen -r gaiabot`
+* To return the screen, enter command: `screen -r gaia`
 * To stop and kill the bot, press `CTRL+C` inside the screen & run this command: `screen -XS gaiabot quit`
 
 It might gives you failed attempts which is because of networks floods, as you can see in the picture that I may get a successfull response after 3 or more attempts
