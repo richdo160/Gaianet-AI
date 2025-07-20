@@ -72,7 +72,7 @@ After installation, run this `source /root/.bashrc` or simply restart your termi
 ---
 
 ## 4. Config Gaia Node
-By running this command, you download **Qwen2 0.5B Instruct** model and initialize your Node:
+By running this command, you download **Llama-3.2-3B** model and initialize your Node:
 
   ```bash
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
