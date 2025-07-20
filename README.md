@@ -6,8 +6,8 @@ In this guide, we will go through setting up and running a Gaia AI node using th
 
 # Gaia Dashboard
 In Gaia XP program, we accumulate points by interacting with Gaia AI Agents and running Gaia nodes.
-1. Connect your wallet to [Gaia Dashboard](https://gaianet.ai/reward?invite_code=Rw1iGQ) and complete registration.
-2. Use this invite code to boost up your XP: `Rw1iGQ`
+1. Connect your wallet to [Gaia Dashboard](https://gaianet.ai/reward?invite_code=RA2y4n) and complete registration.
+2. Use this invite code to boost up your XP: `RA2y4n`
 3. Complete social tasks in [Rewards Summary](https://www.gaianet.ai/reward-summary)
 
 ---
