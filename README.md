@@ -75,7 +75,7 @@ After installation, run this `source /root/.bashrc` or simply restart your termi
 By running this command, you download **Qwen2 0.5B Instruct** model and initialize your Node:
 
   ```bash
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
   ```
 
 ---
@@ -115,7 +115,7 @@ By running a Gaia Node, we are actually deploying an AI Agent with a specific AI
 2. Go to [Node Settings](https://www.gaianet.ai/setting/nodes).
 3. Click the three dots next to your active node and select **Join Domain**.
 4. Click on Next **Step**
-5. Search for the domain `pengu.gaia.domain`
+5. Search for the domain `donglaochoicoin.gaia.domain`
 
 ![image](https://github.com/user-attachments/assets/b96f4bf2-33af-4b8c-8491-96306371aae6)
 
